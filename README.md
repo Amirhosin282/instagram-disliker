@@ -1,6 +1,5 @@
-# Disliker Tool - ابزار دیس لایکر
+# Disliker Tool 
 
-## 📌 English Version
 
 ### 🚀 Overview
 Disliker is a Python automation tool I created using Selenium to clean up my Instagram liked content. I noticed I had randomly liked too many posts (probably while mindlessly scrolling), so I developed this script to automatically unlike them all.
@@ -36,10 +35,12 @@ Disliker is a Python automation tool I created using Selenium to clean up my Ins
 
 ### ❓ Why I Built This
 Honestly, I looked at my liked posts and realized most were random junk. Instead of manually unliking hundreds of posts, I automated the process using Selenium!
+<br>
 
+**Note**: This tool may need updates if Instagram makes changes to its platform.
 ---
 
-## 📌 نسخه فارسی
+## ابزار دیس لایکر
 
 ### 🚀 معرفی
 دیس لایکر یک ابزار پایتونی هست که من با استفاده از سلنیوم برای پاک کردن لایک‌های اینستاگرامم ساختم. متوجه شدم کلی پست چرت و پرت رو لایک کرده بودم (احتمالا وقتی بی‌هدف اسکرول می‌کردم)، بنابراین این اسکریپت رو نوشتم تا به صورت خودکار همه‌شون رو آنلایک کنه.
@@ -79,4 +80,3 @@ Honestly, I looked at my liked posts and realized most were random junk. Instead
 ---
 
 **توجه**: این ابزار ممکنه نیاز به آپدیت داشته باشه اگر اینستاگرام تغییراتی ایجاد کنه.  
-**Note**: This tool may need updates if Instagram makes changes to its platform.
