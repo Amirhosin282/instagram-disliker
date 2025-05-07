@@ -38,7 +38,6 @@ Honestly, I looked at my liked posts and realized most were random junk. Instead
 <br>
 
 **Note**: This tool may need updates if Instagram makes changes to its platform.
----
 
 ## ابزار دیس لایکر
 
